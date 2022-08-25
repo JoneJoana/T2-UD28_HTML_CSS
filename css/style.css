@@ -1,0 +1,21 @@
+/*modificar color fondo, color fuente, fam tipografica, tamaño */
+body {
+    background-color: darkgoldenrod;
+}
+h1{
+    color: whitesmoke;
+    font-family: "Barlow", sans-serif;
+    font-size: 28pt;  
+}
+p{
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12pt;  
+}
+em{
+    color: greenyellow;
+}
+strong{
+    color: black;
+    font-size: 15pt;
+}
